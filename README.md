@@ -211,9 +211,7 @@ skillbridge/
 **Pratyush Rawat**
 - 🎓 Computer Science & Data Science Student at Manipal University
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-pratyushrawat-blue.svg)](https://linkedin.com/in/pratyushrawat)
-[![GitHub](https://img.shields.io/badge/GitHub-FLACK277-black.svg)](https://github.com/FLACK277)
-[![Email](https://img.shields.io/badge/Email-pratyushrawat2004%40gmail.com-red.svg)](mailto:pratyushrawat2004@gmail.com)
+
 
 ---
 
@@ -239,6 +237,6 @@ MIT License — Open innovation and shared growth.
 
 Made with ☕ and lots of 🧠 for India's workforce
 
-**[⭐ Star this repo](https://github.com/FLACK277) | [💼 Connect](https://linkedin.com/in/pratyushrawat)**
+**⭐ Star this repo for development updates**
 
 </div>
